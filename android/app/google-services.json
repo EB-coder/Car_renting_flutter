@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887846823637",
+    "project_id": "auth-car-rent",
+    "storage_bucket": "auth-car-rent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887846823637:android:f875533ae305ad8c38245c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_car_rent_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xFtOjYPoCtUPn9fJcqUIvoVwmTnEtoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

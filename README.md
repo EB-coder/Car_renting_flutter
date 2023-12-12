@@ -1,4 +1,4 @@
-# Flutter Car Rental App
+# Flutter Car Rental App.
 
 ## Description
 

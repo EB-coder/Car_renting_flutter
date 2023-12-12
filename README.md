@@ -50,5 +50,6 @@ Here is the confirmation window will appear.
 6ffbca)
 
 Access your rented cars in the "My Cars" section.
+And if you want to remove the car, just press the remove button.
 
 ![My_cars](https://github.com/EB-coder/Car_renting_flutter/assets/73636880/ca06fbf1-1923-4d7d-be68-07c574041258)

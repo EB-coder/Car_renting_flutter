@@ -41,7 +41,7 @@ This page is wall where the cars will be presented from the Firebase.
 View details of each car by pressing the "Show" button.
 And there will be a button to rent the car.
 
-![show_details](https://github.com/EB-coder/Car_renting_flutter/assets/73636880/7d666379-97be-41ee-921e-3b81de)
+![show_details](https://github.com/EB-coder/Car_renting_flutter/assets/73636880/33fda28a-1578-46ba-9e48-c66740068d77)
 
 Rent a car by pressing the "Rent this car" button.
 Here is the confirmation window will appear.
